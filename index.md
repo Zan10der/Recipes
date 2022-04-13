@@ -14,7 +14,7 @@ Cooking time: 30 min
 
 #### **Chili and garlic mayo**
 
-    ½ cup mayonnaise
+    120 ml mayonnaise
     1 tbsp chili paste
     1 garlic clove, minced
 
@@ -23,13 +23,13 @@ Cooking time: 30 min
     2 tbsp coconut oil
     2 tbsp fresh ginger, minced
     2 garlic cloves, chopped
-    1 oz. (41⁄3 tbsp) scallions, thinly sliced, white and green parts separated
-    1½ lbs ground turkey or ground pork
+    28 g (65 ml) scallions, thinly sliced, white and green parts separated
+    650 g ground turkey or ground pork
     2 tbsp tamari soy sauce
     1 tbsp white wine vinegar
     1 tsp sesame oil
-    8 oz. green cabbage, shredded
-    4 oz. (12⁄3 cups) red cabbage, shredded
+    230 g green cabbage, shredded
+    110 g (375 ml) red cabbage, shredded
     salt, for seasoning
 
 ### Instructions
@@ -79,6 +79,33 @@ Cooking time: 25 min
 1. Heat the olive oil in a wok or large frying pan, over medium-high heat. Add the chicken, garlic powder, and pepper. Stir-fry for a few minutes, until the chicken turns golden brown.
 2. Add the broccoli and tamari soy sauce. Stir together for a couple of minutes until the broccoli is crisp, yet tender. Spoon into individual bowls, and serve with the spicy mayonnaise on the side.
 
+## 2.2 Sweet and sticky chicken wings
+
+Serves: 4
+
+Cooking time: 45 min
+
+### Ingredients
+
+    900 g chicken wings
+    60 ml coconut aminos
+    2 tbsp tamari soy sauce
+    ¼ tsp ground ginger
+    ¼ tsp onion powder
+    ¼ tsp garlic powder
+    ¼ tsp chili flakes
+
+### Instructions
+
+1. Preheat oven to 450°F (225°C).
+2. Place the wings with the thicker skin-side up on a rimmed baking sheet with wire racks. (The wire rack helps promote even cooking).
+3. Bake the wings for 35 minutes.
+4. When the wings have about 12 minutes left to bake, start making the sauce.
+5. Heat a medium to a large skillet over medium heat, and add the coconut aminos, soy sauce, and seasoning.
+6. Once the sauce comes to a simmer, begin stirring. Continue to stir periodically, adjusting the heat as needed to maintain a gentle simmer.
+7. Once the sauce has thickened slightly—as you stir it, it should take a few seconds for the sauce to fill back behind your spoon or spatula—you can turn off the heat while the wings finish cooking.
+8. Place the wings in a large heatproof bowl and pour the sauce over them. Stir to evenly coat with the sauce, and serve.
+
 ## 3. Cow
 
 **********************************************************
@@ -95,9 +122,9 @@ Cooking time: 20 min
 
 ### Ingredients
 
-    10 oz. bacon
-    2⁄3 lb green cabbage or pointed cabbage
-    2 oz. butter (optional)
+    280 g bacon
+    300 g green cabbage or pointed cabbage
+    55 g butter (optional)
     salt and pepper
 
 ### Instructions
