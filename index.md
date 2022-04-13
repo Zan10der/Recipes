@@ -10,7 +10,7 @@ Serves: 4
 
 Cooking time: 30 min
 
-### 1.1 Ingredients
+### 1.1.1 Ingredients
 
 #### **Chili and garlic mayo**
 
@@ -32,7 +32,7 @@ Cooking time: 30 min
     110 g (375 ml) red cabbage, shredded
     salt, for seasoning
 
-### 1.1 Instructions
+### 1.1.2 Instructions
 
 1. Mix the mayonnaise, chili paste, and garlic together in a small bowl. Place mixture in a small sandwich bag (for drizzling) and set aside.
 2. Heat the oil in a large frying pan or wok, over medium-high heat.
@@ -51,7 +51,7 @@ Serves: 4
 
 Cooking time: 25 min
 
-### 2.1 Ingredients
+### 2.1.1 Ingredients
 
 #### **Spicy mayonnaise**
 
@@ -68,7 +68,7 @@ Cooking time: 25 min
     280 g (750 ml) broccoli, cut into small pieces    
     2 tbsp tamari soy sauce
 
-### 2.1 Instructions
+### 2.1.2 Instructions
 
 #### **Spicy mayonnaise**
 
@@ -85,7 +85,7 @@ Serves: 4
 
 Cooking time: 45 min
 
-### 2.2 Ingredients
+### 2.2.1 Ingredients
 
     900 g chicken wings
     60 ml coconut aminos
@@ -95,7 +95,7 @@ Cooking time: 45 min
     ¼ tsp garlic powder
     ¼ tsp chili flakes
 
-### 2.2 Instructions
+### 2.2.2 Instructions
 
 1. Preheat oven to 450°F (225°C).
 2. Place the wings with the thicker skin-side up on a rimmed baking sheet with wire racks. (The wire rack helps promote even cooking).
@@ -116,9 +116,9 @@ Serves:
 
 Cooking time:
 
-### 3.1 Ingredients
+### 3.1.1 Ingredients
 
-### 3.1 Instructions
+### 3.1.2 Instructions
 
 ## 4. Pork
 
@@ -130,14 +130,14 @@ Serves: 2
 
 Cooking time: 20 min
 
-### 4.1 Ingredients
+### 4.1.1 Ingredients
 
     280 g bacon
     300 g green cabbage or pointed cabbage
     55 g butter (optional)
     salt and pepper
 
-### 4.1 Instructions
+### 4.1.2 Instructions
 
 1. Chop cabbage and bacon into small pieces.
 2. In a large skillet, fry the bacon over medium heat until crispy.
@@ -153,9 +153,9 @@ Serves:
 
 Cooking time:
 
-### 5.1 Ingredients
+### 5.1.1 Ingredients
 
-### 5.1 Instructions
+### 5.1.2 Instructions
 
 ## 6. Bread
 
@@ -167,9 +167,9 @@ Serves:
 
 Cooking time:
 
-### 6.1 Ingredients
+### 6.1.1 Ingredients
 
-### 6.1 Instructions
+### 6.1.2 Instructions
 
 ## 7. Sweet Tooth
 
@@ -181,6 +181,6 @@ Serves:
 
 Cooking time:
 
-### 7.1 Ingredients
+### 7.1.1 Ingredients
 
-### 7.1 Instructions
+### 7.1.2 Instructions
