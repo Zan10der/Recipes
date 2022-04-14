@@ -143,6 +143,122 @@ Cooking time: 30 min
 3. Wrap a bacon slice around each burger. Use a brush to apply olive oil to the meat and grill each side for 5-10 minutes or until cooked through. You can also use the stove and fry them in a pan on medium-high heat.
 4. Serve with cheddar cheese, pickles, lettuce, tomato, onion, and a dollop of mayonnaise.
 
+## 3.2 Jalepeños Sliders
+
+Serves: 4
+
+Cooking time: 30 min
+
+### 3.2.1 Ingredients
+
+#### **Buns**
+
+    60 ml light olive oil or melted butter
+    4 eggs
+    180 ml (85 g) almond flour
+    2 tsp sesame seeds
+    1 tsp onion powder
+    1 tsp dried rosemary
+    ½ tsp salt
+    ½ tbsp butter
+
+#### **Mini burger patties**
+
+    450 g ground beef or ground turkey
+    3 pickled jalapeños, chopped
+    55 g (85 ml) shallots, finely chopped
+    120 ml (55 g) cheddar cheese, shredded
+    1 tsp salt
+    ½ tsp ground black pepper
+    ½ tsp garlic powder
+    1 tbsp olive oil
+
+#### **Serving**
+
+    120 ml sour cream
+    pickled jalapeños (optional)
+
+### 3.2.2 Instructions
+
+1. Preheat the oven to 400°F (200°C).
+2. Mix eggs and olive oil in a bowl. Add remaining ingredients for the bun and mix into a smooth batter.
+3. Pour batter into well-greased muffin pan or silicone baking cups, at least 21⁄2 inches (5 cm) in diameter.
+4. Bake for 15-20 minutes or until the bread is baked through and golden in color. Allow to cool and slice in half.
+
+### **Mini patties**
+
+1. Combine all ingredients for mini patties.
+2. Shape two small flat patties per serving. Brush oil on both sides and place on a baking sheet.
+3. Bake in the oven for 12-15 minutes or until patties are done. You can also fry or grill them.
+4. Serve with buns, a dollop of sour cream, and sliced jalapeños.
+
+## 3.3 Italian meatballs with mozzarella cheese
+
+Serves: 4
+
+Cooking time: 50 min
+
+### 3.3.1 Ingredients
+
+    450 g ground beef or ground turkey
+    180 ml (60 g) shredded Parmesan cheese
+    1 egg
+    1 tsp salt
+    ½ tbsp dried basil
+    ½ tsp onion powder
+    1 tsp garlic powder
+    ½ tsp ground black pepper
+    3 tbsp olive oil
+    425 ml (425 g) canned whole tomatoes
+    2 tbsp fresh parsley, finely chopped
+    200 g (1.6 liters) fresh spinach
+    55 g butter
+    140 g (300 ml) fresh mozzarella cheese
+    salt and pepper
+
+### 3.3.2 Instructions
+
+1. Place ground beef, parmesan cheese, egg, salt and spices in a bowl and blend thoroughly. Form the mixture into meatballs, about 1 oz (30 grams) each. It helps to keep your hands wet while forming the balls.
+2. Heat up the olive oil in a large skillet and sauté the meatballs until they're golden brown on all sides.
+3. Lower the heat and add the canned tomatoes. Let simmer for 15 minutes, stirring every couple of minutes. Season with salt and pepper to taste. Add parsley and stir. You can prepare the dish up to this point for freezing.
+4. Melt the butter in a separate frying pan and fry the spinach for 1-2 minutes, stirring continuously. Season with salt and pepper to taste. Add the spinach to the meatballs, and stir to combine.
+5. Serve with mozzarella cheese on top, torn into bite-sized pieces.
+
+## 3.4 Bacon burger caserole
+
+Serves: 4
+
+Cooking time: 45 min
+
+### 3.4.1 Ingredients
+
+    200 g bacon, diced
+    450 g ground beef or ground turkey
+    2 dill pickles, finely chopped
+    2 (230 g) tomatoes, diced
+    1 garlic clove, minced (optional)
+    salt and pepper
+    475 ml (230 g) shredded cheddar cheese
+    2 eggs
+    240 ml heavy whipping cream
+    2 tbsp unsweetened tomato sauce
+
+### **Serving**
+
+    110 g (700 ml) lettuce
+
+### 3.4.2 Instructions
+
+1. Preheat the oven to 400°F (200°C). Grease a 2-quart 9” (22 cm) round casserole dish.
+2. In a large frying pan, fry the bacon over medium heat until crispy. Set bacon aside, reserving fat in pan.
+3. Add ground beef to the same pan and increase the heat slightly. Fry while stirring until the ground beef is cooked through. Once the beef is cooked, you can drain some of the fat if you wish.
+4. Add dill pickles and tomatoes to the pan along with minced garlic, salt, pepper, and 2/3 of the cheese.
+5. Add ground beef mixture and bacon to the casserole dish.
+6. Mix eggs, cream, and tomato sauce in a small bowl. Season to taste.
+7. Pour the egg mixture over the ground beef and add the rest of the cheese on top.
+8. Bake for 20-25 minutes or until the casserole turns golden brown.
+9. Serve with lettuce.
+
 ## 4. Pork
 
 **********************************************************
