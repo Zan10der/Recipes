@@ -41,6 +41,29 @@ Cooking time: 30 min
 5. In another frying pan, cook the eggs in oil, anyway that you prefer. Season with salt.
 6. Divide the meat and cabbage mix into serving bowls. Cut off a corner of the sandwich bag, and drizzle the chili-garlic mayo on top. Add the egg and garnish with the scallion green parts, cilantro, lime wedges, and sesame seeds.
 
+## 1.2 Caprese Omellete
+
+Serves: 2
+
+Cooking time: 20 min
+
+### 1.2.1 Ingredients
+
+    6 eggs
+    salt and pepper
+    1 tbsp chopped fresh basil or dried basil
+    2 tbsp olive oil
+    85 g cherry tomatoes cut in halves or tomatoes cut in slices
+    140 g (300 ml) fresh mozzarella cheese, diced or sliced
+
+### 1.2.2 Instructions
+
+1. Crack the eggs into a mixing bowl, add salt and black pepper to your liking.
+2. Whisk well with a fork until fully combined. Add basil and stir.
+3. Heat oil in a large frying pan. Fry the tomatoes for a few minutes.
+4. Pour the egg batter on top of the tomatoes. Wait until the batter is slightly firm before adding the mozzarella cheese.
+5. Lower the heat and let the omelet set. Serve right away and enjoy!
+
 ## 2. Chicken
 
 **********************************************************
@@ -148,7 +171,7 @@ If you feel like making this dish even heartier you can pair it with cauliflower
 
 ## 2.4 Chicken casserole
 
-Serves: 5
+Serves: 4
 
 Cooking time: 60 min
 
