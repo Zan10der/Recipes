@@ -110,15 +110,38 @@ Cooking time: 45 min
 
 **********************************************************
 
-## 3.1
+## 3.1 Bacon-wrapped burgers
 
-Serves:
+Serves: 4
 
-Cooking time:
+Cooking time: 30 min
 
 ### 3.1.1 Ingredients
 
+    200 g bacon (pork or turkey)
+    550 g ground beef or ground turkey
+    2 tbsp cold water
+    2 fresh jalapeños, finely chopped (optional)
+    1 tsp garlic powder
+    ½ tsp salt
+    ½ tsp ground black pepper
+    1 tbsp olive oil
+
+#### **For Serving**
+
+    4 dill pickles
+    85 g (180 ml) sliced cheddar cheese
+    85 g (550 ml) lettuce
+    2 (230 g) sliced tomatoes
+    ½ (55 g) sliced red onion
+    160 ml mayonnaise
+
 ### 3.1.2 Instructions
+
+1. Put aside a slice of bacon for each burger and finely chop the remaining slices.
+2. Mix together the ground beef, water, jalapeños, chopped bacon, and spices. Shape the burgers with wet hands.
+3. Wrap a bacon slice around each burger. Use a brush to apply olive oil to the meat and grill each side for 5-10 minutes or until cooked through. You can also use the stove and fry them in a pan on medium-high heat.
+4. Serve with cheddar cheese, pickles, lettuce, tomato, onion, and a dollop of mayonnaise.
 
 ## 4. Pork
 
