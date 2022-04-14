@@ -106,6 +106,83 @@ Cooking time: 45 min
 7. Once the sauce has thickened slightly—as you stir it, it should take a few seconds for the sauce to fill back behind your spoon or spatula—you can turn off the heat while the wings finish cooking.
 8. Place the wings in a large heatproof bowl and pour the sauce over them. Stir to evenly coat with the sauce, and serve.
 
+## 2.3 Pesto chicken caserole with feta cheese and olives
+
+Serves: 4
+
+Cooking time: 45 min
+
+### 2.3.1 Ingredients
+
+    650 g boneless chicken thighs
+    salt and pepper
+    2 tbsp butter or coconut oil
+    80 ml (80 g) red pesto or green pesto
+    300 ml heavy whipping cream
+    85 g (150 ml) pitted olives
+    140 g (220 ml) feta cheese, diced
+    1 garlic clove, finely chopped
+
+### **For serving**
+
+    140 g (600 ml) leafy greens
+
+### 2.3.2 Instructions
+
+1. Preheat the oven to 400°F (200°C).
+2. Cut the chicken into bite-sized pieces. Season with salt and pepper.
+3. Add butter or oil to a large skillet and fry the chicken pieces in batches on medium-high heat until golden brown.
+4. Using store-bought low-carb red or green pesto, or making your own, mix pesto and heavy cream in a bowl.
+5. Place the fried chicken pieces in a baking dish together with olives, feta cheese and garlic. Add the pesto/cream mixture.
+6. Bake in oven for 20-30 minutes, until the dish turns bubbly and light brown around the edges.
+
+### 2.3.3 Tips
+
+A number of low-carb store-bought varieties of pesto are available in most grocery stores.
+
+Red pesto is typically made with basil leaves, tomatoes or sun-dried tomatoes, Parmesan cheese, olive oil, pine nuts and garlic. Green pesto is typically made with basil leaves, Parmesan cheese, olive oil, pine nuts and garlic. Look for ones with real olive oil, not soybean oil or canola oil, no sugar, and less than 5 net carbs per serving.
+
+A simple side dish of field greens or crunchy romaine lettuce complements the rich flavors. Lightly sautéed asparagus or green beans work, too.
+
+If you feel like making this dish even heartier you can pair it with cauliflower rice, roasted cauliflower or fried broccoli.
+
+## 2.4 Chicken casserole
+
+Serves: 5
+
+Cooking time: 60 min
+
+### 2.4.1 Ingredients
+
+    180 ml heavy whipping cream
+    120 ml (120 g) cream cheese
+    3 tbsp green pesto
+    1 tbsp lemon juice
+    salt and pepper
+    45 g butter
+    900 g skinless boneless chicken thighs, cut into bite-sized pieces
+    170 g leeks, finely chopped
+    110 g cherry tomatoes, halved
+    325 g cauliflower, cut into small florets
+    475 ml (230 g) cheddar cheese, shredded
+
+### 2.4.2 Instructions
+
+1. Preheat the oven to 400°F (200°C).
+2. Mix cream and cream cheese with pesto and lemon juice. Salt and pepper to taste.
+3. In a large pan over medium-high heat, melt the butter. Add the chicken, season with salt and pepper, and fry until they turn a nice golden brown.
+4. Place the chicken in a greased 9 x 13" (23 x 33 cm) baking dish, and pour in the cream mixture.
+5. Top chicken with leek, tomatoes, and cauliflower.
+6. Sprinkle cheese on top and bake in the middle of the oven for at least 30 minutes or until the chicken is fully cooked. If the casserole is at risk of burning before it's done, cover it with a piece of aluminium foil, lower the heat and let cook for a little longer.
+
+### Tips
+
+Sauce too runny? If you'd like an even thicker sauce, add some extra shredded cheese. This will give the dish even more flavor and consistency.
+
+Green it up! A rich dish like this only gets better if you serve it with a side of fresh leafy greens. Dress with a generous drizzle of olive oil, some balsamic vinegar, and a sprinkle of sea salt.
+
+Would like some extra heat? Spice things up with some red pepper flakes!
+
 ## 3. Cow
 
 **********************************************************
